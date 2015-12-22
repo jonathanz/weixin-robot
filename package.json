@@ -7,7 +7,7 @@
   "dependencies": {
     "debug": "0.7.x",
     "webot": "0.1.9",
-    "wechat-mp": "~0.2.6"
+    "wechat-mp": "git+https://github.com/hzif/wechat-mp.git"
   },
   "devDependencies": {
     "mocha": "*",
@@ -16,11 +16,11 @@
     "jscover": "*",
     "supertest": "*",
     "connect": "^3.3.3",
-		"connect-query": "^0.2.0"
+    "connect-query": "^0.2.0"
   },
   "engines": {
-    "node" : ">=0.6.0",
-    "npm" : ">=1.1.6"
+    "node": ">=0.6.0",
+    "npm": ">=1.1.6"
   },
   "keywords": [
     "weixin",
