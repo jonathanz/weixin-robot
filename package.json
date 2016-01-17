@@ -7,7 +7,7 @@
   "dependencies": {
     "debug": "0.7.x",
     "webot": "0.1.9",
-    "wechat-mp": "git+https://github.com/hzif/wechat-mp.git"
+    "wechat-mp": "git+https://github.com/jonathanz/wechat-mp.git"
   },
   "devDependencies": {
     "mocha": "*",
